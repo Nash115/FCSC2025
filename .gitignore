@@ -1,1 +1,3 @@
 meme-generator
+*.dmp
+node_modules
